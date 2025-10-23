@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Doomle</title>
+        <link rel="stylesheet" href="styles/index.css"/>
+        <script defer src="js/index.js" type="module"></script>
+    </head>
+    <body>
+        <base target="_blank" />
+        <header>
+            <h1 class="center"><img src="assets/images/doomle.png" alt="Doomle"></h1>
+
+            <input class="menu-btn" type="checkbox" id="menu-btn" />
+            <label class="menu-icon" for="menu-btn">
+                <span class="navicon" />
+            </label>
+        
+            <nav class="menu">
+                <a class="nav-item" href="index.html">Accueil</a>
+                <a class="nav-item" href="#">Cours</a>
+                <a class="nav-item" href="#">Notions</a>
+            </nav>
+        </header>
+        <nav>
+            <div id="menu_logo" class="center"><img id="logo" src="assets/images/doomle.png" alt="Doomle"></div>
+            <div id="menu_home" class="center"><a href="https://moodle.adatechschool.fr/my/">Accueil</a></div>
+            <div id="menu_courses" class="center"><a href="https://moodle.adatechschool.fr/my/courses.php">Cours</a></div>
+            <div id="menu_notions" class="center"><a href="https://moodle.adatechschool.fr/course/view.php?id=1371">Presence</a></div>
+            <div id="menu_rest"></div>
+        </nav>
+        <nav id="pick">
+        </nav>
+		<main>
+            <div id="track"></div>
+            <div id="courses"></div>
+        </main>
+    </body>
+</html>

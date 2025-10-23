@@ -1,0 +1,220 @@
+{
+	"A01": [
+		{
+			"titre":	"Track de formation",
+			"lien":		"course/view.php?id=1391",
+			"github":	""
+		},
+		{
+			"titre":	"Crée ton README de profil GitHub",
+			"lien":		"mod/assign/view.php?id=18600",
+			"github":	"",
+			"notions":	["markdown", "git", "github"]
+		},
+		{
+			"titre":	"Présente tes exercices et respecte la sémantique HTML",
+			"lien":		"mod/assign/view.php?id=18614",
+			"github":	"",
+			"notions":	["html"]
+		},
+		{
+			"titre":	"Chapitre 1 QCM - Comprendre l’IA générative",
+			"lien":		"mod/quiz/view.php?id=18606",
+			"github":	"",
+			"notions":	["ai"]
+		},
+		{
+			"titre":	"Chapitre 2 Panorama des outils actuels",
+			"lien":		"mod/assign/view.php?id=18607",
+			"github":	"",
+			"notions":	["ai"]
+		},
+		{
+			"titre":	"Chapitre 3 QCM Comment dialoguer avec une IAG (le prompt)",
+			"lien":		"mod/quiz/view.php?id=18608",
+			"github":	"",
+			"notions":	["ai"]
+		},
+		{
+			"titre":	"Chapitre 4 & 5 Introduction à l’intelligence artificielle générative",
+			"lien":		"mod/book/view.php?id=18620",
+			"github":	"",
+			"notions":	["ai"]
+		},
+		{
+			"titre":	"Chapitre 4 Avantages et bénéfices pour les développeuses et développeurs",
+			"lien":		"mod/assign/view.php?id=18621",
+			"github":	"",
+			"notions":	["ai"]
+		},
+		{
+			"titre":	"Chapitre 5 Risques et limites de l’IAG",
+			"lien":		"mod/assign/view.php?id=18622",
+			"github":	"",
+			"notions":	["ai"]
+		},
+		{
+			"titre":	"Chapitre 6 & 7 Introduction à l’intelligence artificielle générative",
+			"lien":		"mod/book/view.php?id=18626",
+			"github":	"",
+			"notions":	["ai"]
+		},
+		{
+			"titre":	"Chapitre 6 Intégrer l’IAG dans un projet de développement",
+			"lien":		"mod/assign/view.php?id=18627",
+			"github":	"",
+			"notions":	["ai"]
+		}
+	],
+	"TOJ": [
+		{
+			"titre":	"Tableaux et Objets en javascript",
+			"lien":		"course/view.php?id=1369",
+			"github":	"xo-ghl_toj"
+		},
+		{
+			"titre":	"Exercice 1 Algorithmie sur les tableaux",
+			"lien":		"mod/assign/view.php?id=18354",
+			"github":	"exo1",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 2 Algorithmie sur les objets",
+			"lien":		"mod/assign/view.php?id=18356",
+			"github":	"exo2",
+			"notions":	["js"]
+		}
+	],
+	"C00": [
+		{
+			"titre":	"Exercices individuels",
+			"lien":		"course/view.php?id=1368",
+			"github":	""
+		},
+		{
+			"titre":	"Git",
+			"lien":		"course/section.php?id=8858",
+			"github":	"",
+			"notions":	["git"]
+		},
+		{
+			"titre":	"Bonjour JavaScript",
+			"lien":		"course/section.php?id=8859",
+			"github":	"",
+			"notions":	["js"]
+		}
+	],
+	"C02": [
+		{
+			"titre":	"Ordinateur, terminal et Git",
+			"lien":		"course/view.php?id=1383",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1 Pratiquer les commandes du terminal",
+			"lien":		"mod/assign/view.php?id=18492",
+			"github":	"",
+			"notions":	["terminal", "git"]
+		},
+		{
+			"titre":	"Exercice 2 Créer son arborescence de travail",
+			"lien":		"mod/assign/view.php?id=18493",
+			"github":	"",
+			"notions":	["terminal"]
+		}
+	],
+	"C03": [
+		{
+			"titre":	"Syntaxe, variable et ordre d’exécution",
+			"lien":		"course/view.php?id=1370",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1 Apprendre des commandes du terminal",
+			"lien":		"mod/assign/view.php?id=18364",
+			"github":	"",
+			"notions":	["js", "terminal"]
+		},
+		{
+			"titre":	"Exercice 2 Déclaration et utilisation de variable",
+			"lien":		"mod/assign/view.php?id=18365",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 3 Ordre d'exécution",
+			"lien":		"mod/assign/view.php?id=18366",
+			"github":	"",
+			"notions":	["js"]
+		}
+	],
+	"C04": [
+		{
+			"titre":	"Fonctions",
+			"lien":		"course/view.php?id=1393",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1",
+			"lien":		"mod/assign/view.php?id=18708",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 2",
+			"lien":		"mod/assign/view.php?id=18709",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 3",
+			"lien":		"mod/assign/view.php?id=18366",
+			"github":	"",
+			"notions":	["js"]
+		}
+	],
+	"C05": [
+		{
+			"titre":	"Protocoles web",
+			"lien":		"course/view.php?id=1382",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1 Parle avec un serveur depuis le terminal avec la commande curl",
+			"lien":		"mod/assign/view.php?id=18479",
+			"github":	"",
+			"notions":	["terminal", "protocol"]
+		},
+		{
+			"titre":	"Exercice 2 Observe les requêtes faites sur les sites de Ada Tech School",
+			"lien":		"mod/assign/view.php?id=18480",
+			"github":	"",
+			"notions":	["terminal", "protocol"]
+		},
+		{
+			"titre":	"Exercice 3 Interagis avec une application web via les méthodes HTTP grâce à un client",
+			"lien":		"mod/assign/view.php?id=18481",
+			"github":	"",
+			"notions":	["terminal", "protocol"]
+		}
+	],
+	"C21": [
+		{
+			"titre":	"Accessibilité",
+			"lien":		"course/view.php?id=1368",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1 Cherche, trouve répare l’accessibilité d’un code HTML",
+			"lien":		"mod/assign/view.php?id=18342",
+			"github":	"",
+			"notions":	["access"]
+		},
+		{
+			"titre":	"Exercice 2 Diagnostic RGAA du site Web d’Ada Tech School",
+			"lien":		"mod/assign/view.php?id=18343",
+			"github":	"",
+			"notions":	["access"]
+		}
+	]
+}

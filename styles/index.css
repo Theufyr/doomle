@@ -1,0 +1,230 @@
+@import "reset.css";
+@import "icons.css";
+@font-face {
+  font-family: SoulPapa; /* set name */
+  src: url(../assets/fonts/SoulPapa.ttf); /* url of the font */
+}
+@font-face {
+  font-family: Zelda; /* set name */
+  src: url(../assets/fonts/zelda-demibold.otf); /* url of the font */
+}
+body {
+    background-color: white;
+    font-family: Zelda;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#track {
+    max-width: 400px;
+}
+h2 {
+    color: white;
+}
+.course_title h2 {
+    color: black;
+}
+.course {
+    margin: 2rem;
+    padding: 0.5rem;
+    min-width: 300px;
+    border: none;
+    border-radius: 10px;
+    background:  linear-gradient(-155deg, #da7010, #f98012);
+    box-shadow: -1px 1px 3px #964d0b;
+}
+.course_title {
+    padding: 0.2rem;
+    border: none;
+    border-radius: 5px;
+    background:  linear-gradient(-155deg, #f9c291, #f98012);
+    box-shadow: -1px 1px 3px #964d0b;
+}
+main a:any-link {
+    color: #f9c291;
+    text-decoration: none;
+}
+main a:hover {
+    color: black;
+    text-decoration: none;
+}
+main .course_title a:any-link {
+    color: #964d0b;
+}
+main a:hover, main .course_title a:hover {
+    color: white;
+    text-decoration: none;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header {
+    display: none;
+}
+nav {
+    width: 100%;
+    margin:0 0 1rem 0;
+    display:grid;
+    grid-template-rows: 4rem;
+    grid-template-columns: minmax(125px, 20%) minmax(100px, 20%) minmax(100px, 20%) minmax(100px, 20%) minmax(75px, 20%);
+}
+#logo {
+    margin: auto;
+    width: 100%;
+    max-width: 7rem;
+}
+nav a:any-link {
+    color: white;
+    text-decoration: none;
+}
+#menu_home, #menu_courses, #menu_notions, #menu_rest {
+    font-family: SoulPapa;
+    font-size: 2rem;
+    width: 100%;
+    height: 100%;
+    padding-top: 1rem;
+    background-color: #f98012;
+    color: white;
+    text-decoration: none;
+}
+#menu_home:hover, #menu_courses:hover, #menu_notions:hover,
+#menu_home:hover a,  #menu_courses:hover a, #menu_notions:hover a {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+#menu_logo {
+    padding:0.5rem;
+    grid-row: 1 / 2;
+    grid-column: 1 / 2;
+}
+#menu_home {
+    grid-row: 1 / 2;
+    grid-column: 2 / 3;
+}
+#menu_courses {
+    grid-row: 1 / 2;
+    grid-column: 3 / 4;
+}
+#menu_notions {
+    grid-row: 1 / 2;
+    grid-column: 4 / 5;
+}
+#menu_rest {
+    grid-row: 1 / 2;
+    grid-column: 5 / 6;
+}
+@media (max-width: 450px) {
+    nav {
+        display: none;
+    }
+  
+  header {
+    display: grid;
+    grid-template-areas:
+       "title   title   hamburger"
+       "nav     nav     nav";
+  }
+  
+  h1 {
+    grid-area: title;
+    max-width: 7rem;
+    min-width: 125px;
+    margin:0 1rem 0 1rem;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .menu-btn {
+    display: none;
+  }
+
+  .menu-icon {
+    grid-area: hamburger;
+    cursor: pointer;
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    padding: 40px 20px 30px 0;
+    position: relative;
+    user-select: none;
+    visibility: visible;
+  }
+
+  .navicon {
+    background: #f98012;
+    display: block;
+    height: 4px;
+    width: 18px;
+    position: relative;
+  }
+
+  .navicon:before {
+    top: 5px;
+  }
+
+  .navicon:after {
+    top: -5px;
+  }
+
+  .navicon:before, .navicon:after {
+    background: #f98012;
+    display: block;
+    width: 100%;
+    height: 100%;
+    content: '';
+    position: absolute;
+    transition: all .2s ease-out;
+  }
+
+  .menu {
+    grid-area: nav;
+    max-width: unset;
+    max-height: 0;
+    transition: max-height .2s ease-out;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: #f98012;
+    display: flex;
+    flex-direction: column;
+    font-family: SoulPapa;
+    font-size: 2rem;
+  }
+
+  .menu a {
+    padding: 5px 5px;
+    border-right: 1px solid #f4f4f4;
+    background-color: #f98012;
+    width: 100%;
+    text-align: center;
+  }
+
+  .menu-btn:checked ~ .menu {
+    max-height: 240px;
+  }
+
+  .menu-btn:checked ~ .menu-icon .navicon {
+    background: transparent;
+  }
+
+  .menu-btn:checked ~ .menu-icon .navicon:before {
+    transform: rotate(-45deg);
+  }
+
+  .menu-btn:checked ~ .menu-icon .navicon:after {
+    transform: rotate(45deg);
+  }
+
+  .menu-btn:checked ~ .menu-icon .navicon:before,
+  .menu-btn:checked ~ .menu-icon .navicon:after {
+    top: 0;
+  }
+}
