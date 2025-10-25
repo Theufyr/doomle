@@ -105,7 +105,7 @@
 		},
 		{
 			"titre":	"Jeu des allumettes",
-			"lien":		"https://moodle.adatechschool.fr/mod/assign/view.php?id=18906",
+			"lien":		"mod/assign/view.php?id=18906",
 			"github":	"allumettes",
 			"notions":	["js"]
 		}
