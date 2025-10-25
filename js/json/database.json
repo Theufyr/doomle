@@ -89,7 +89,7 @@
 		{
 			"titre":	"Exercices individuels",
 			"lien":		"course/view.php?id=1368",
-			"github":	""
+			"github":	"xo-ghl_c00"
 		},
 		{
 			"titre":	"Git",
@@ -101,6 +101,12 @@
 			"titre":	"Bonjour JavaScript",
 			"lien":		"course/section.php?id=8859",
 			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Jeu des allumettes",
+			"lien":		"https://moodle.adatechschool.fr/mod/assign/view.php?id=18906",
+			"github":	"allumettes",
 			"notions":	["js"]
 		}
 	],
