@@ -204,6 +204,19 @@
 			"notions":	["terminal", "protocol"]
 		}
 	],
+	"C09": [
+		{
+			"titre":	"rojet Quizz",
+			"lien":		"course/view.php?id=1372",
+			"github":	""
+		},
+		{
+			"titre":	"Projet Quiz - HTML / CSS / JavaScript",
+			"lien":		"mod/page/view.php?id=19129",
+			"github":	"",
+			"notions":	["html", "css", "js", "ts", "git", "github"]
+		}
+	],
 	"C21": [
 		{
 			"titre":	"Accessibilité",
