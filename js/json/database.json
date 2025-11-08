@@ -108,6 +108,12 @@
 			"lien":		"mod/assign/view.php?id=18906",
 			"github":	"allumettes",
 			"notions":	["js"]
+		},
+		{
+			"titre":	"Parlez-vous le morse",
+			"lien":		"mod/assign/view.php?id=18907",
+			"github":	"morse",
+			"notions":	["js"]
 		}
 	],
 	"C02": [

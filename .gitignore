@@ -1,5 +1,14 @@
-desktop.ini
-Thumbs.db
+# OS files
 .DS_Store
-**info.txt
-**__stuff
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Node
+node_modules/
+dist/
+.parcel-cache
+
+# miscellaneous
+__stuff/
+info.txt
