@@ -232,7 +232,7 @@
 			"titre":	"Projet Quiz - HTML / CSS / JavaScript",
 			"lien":		"mod/page/view.php?id=19129",
 			"github":	"",
-			"notions":	["html", "css", "js", "ts", "git", "github"]
+			"notions":	["html", "css", "js", "ts", "storage", "git", "github"]
 		}
 	],
 	"C21": [
