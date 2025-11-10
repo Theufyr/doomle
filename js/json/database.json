@@ -18,6 +18,12 @@
 			"notions":	["html"]
 		},
 		{
+			"titre":	"persistance des données en JavaScript - Les cookies en JavaScript",
+			"lien":		"mod/page/view.php?id=20485",
+			"github":	"persistance_donnees_js/cookies_js/5storage1",
+			"notions":	["js", "cookie"]
+		},
+		{
 			"titre":	"Chapitre 1 QCM - Comprendre l’IA générative",
 			"lien":		"mod/quiz/view.php?id=18606",
 			"github":	"",
