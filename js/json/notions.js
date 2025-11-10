@@ -9,6 +9,7 @@ export default notionList = {
 	"protocol": ["Protocole Web",   "",		false],
 	"git":      ["Git",             "",		false],
 	"github":   ["GitHub",          "",     false],
+	"storage":  ["localStorage",    "",     false],
 	"cookie":   ["Cookies",         "",     false],
 	"access":   ["Accessibilité",   "",     false],
 	"ai":       ["IA",              "IA",   false]
