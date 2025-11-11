@@ -126,6 +126,12 @@
 			"lien":		"mod/assign/view.php?id=18907",
 			"github":	"morse",
 			"notions":	["js"]
+		},
+		{
+			"titre":	"Jouons avec les palindromes",
+			"lien":		"mod/assign/view.php?id=18908",
+			"github":	"palindromes",
+			"notions":	["js"]
 		}
 	],
 	"C02": [
