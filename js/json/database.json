@@ -235,6 +235,31 @@
 			"notions":	["html", "css", "js", "ts", "storage", "git", "github"]
 		}
 	],
+	"C13": [
+		{
+			"titre":	"Manipulation de données",
+			"lien":		"course/view.php?id=1376",
+			"github":	"xo-ghl_c13"
+		},
+		{
+			"titre":	"Exercice 1 Parcourir un tableau",
+			"lien":		"mod/assign/view.php?id=18417",
+			"github":	"exo1",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 2 Parcourir un objet et un tableau d'objets",
+			"lien":		"mod/assign/view.php?id=18418",
+			"github":	"exo2",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 3 Parcourir un fichier JSON",
+			"lien":		"mod/assign/view.php?id=18419",
+			"github":	"exo3",
+			"notions":	["js"]
+		}
+	],
 	"C21": [
 		{
 			"titre":	"Accessibilité",
