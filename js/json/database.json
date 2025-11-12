@@ -266,6 +266,31 @@
 			"notions":	["js"]
 		}
 	],
+	"C14": [
+		{
+			"titre":	"Fetch, async, await",
+			"lien":		"course/view.php?id=1384",
+			"github":	"xo-ghl_c14"
+		},
+		{
+			"titre":	"Exercice 1 Liste d'offre",
+			"lien":		"mod/assign/view.php?id=18503",
+			"github":	"exo1",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 2 Gérer l'état de chargement",
+			"lien":		"mod/assign/view.php?id=18504",
+			"github":	"exo2",
+			"notions":	["html", "css", "js"]
+		},
+		{
+			"titre":	"Exercice 3 Utilise une API",
+			"lien":		"mod/assign/view.php?id=18505",
+			"github":	"exo3",
+			"notions":	["html", "css", "js"]
+		}
+	],
 	"C21": [
 		{
 			"titre":	"Accessibilité",
