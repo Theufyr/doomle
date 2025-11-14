@@ -1,4 +1,4 @@
-import notionList from "/js/json/notions.js";
+import notionList from "./json/notions.js";
 // création et affichage d'éléments
 export default function displayElement(json) {
 	// fonction pour créer l'élément à afficher

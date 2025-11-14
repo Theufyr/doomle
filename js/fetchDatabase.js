@@ -1,6 +1,6 @@
 // on récupère les fonctions d'affichage
 // à utiliser dans la suite du script
-import displayElement from "/js/displayElement.js";
+import displayElement from "./displayElement.js";
 
 // on appelle la base de données json
 const fetchPromise	= fetch("js/json/database.json",);

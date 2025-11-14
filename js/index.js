@@ -1,8 +1,8 @@
 // les imports sont en début de script
 // lors de l'utilisation d'import, les chemins relatifs doivent commencer par /
 // et partir du dossier où se trouve le fichier html qui a appelé le script
-import notionList from "/js/json/notions.js";
-import "/js/fetchDatabase.js";
+import notionList from "./json/notions.js";
+import "./fetchDatabase.js";
 // barre navigation des notions
 function pickNotion(notion) {
         let chapters = Array.from(document.getElementsByClassName("notion_" + notion));
