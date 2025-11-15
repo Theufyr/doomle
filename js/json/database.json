@@ -225,7 +225,7 @@
 			"titre":	"Exercice 3 Interagis avec une application web via les méthodes HTTP grâce à un client",
 			"lien":		"mod/assign/view.php?id=18481",
 			"github":	"",
-			"notions":	["terminal", "protocol"]
+			"notions":	["terminal", "protocol", "api"]
 		}
 	],
 	"C09": [
@@ -276,19 +276,19 @@
 			"titre":	"Exercice 1 Liste d'offre",
 			"lien":		"mod/assign/view.php?id=18503",
 			"github":	"exo1",
-			"notions":	["js"]
+			"notions":	["js", "api"]
 		},
 		{
 			"titre":	"Exercice 2 Gérer l'état de chargement",
 			"lien":		"mod/assign/view.php?id=18504",
 			"github":	"exo2",
-			"notions":	["html", "css", "js"]
+			"notions":	["html", "css", "js", "api"]
 		},
 		{
 			"titre":	"Exercice 3 Utilise une API",
 			"lien":		"mod/assign/view.php?id=18505",
 			"github":	"exo3",
-			"notions":	["html", "css", "js"]
+			"notions":	["html", "css", "js", "api"]
 		}
 	],
 	"C15": [
