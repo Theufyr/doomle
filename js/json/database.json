@@ -291,6 +291,25 @@
 			"notions":	["html", "css", "js"]
 		}
 	],
+	"C15": [
+		{
+			"titre":	"API",
+			"lien":		"course/view.php?id=1377",
+			"github":	"xo-ghl_c15"
+		},
+		{
+			"titre":	"Exercice 1 Les paramètres de chemin",
+			"lien":		"mod/assign/view.php?id=18503",
+			"github":	"exo1",
+			"notions":	["js", "api"]
+		},
+		{
+			"titre":	"Exercice 2 Les paramètres de requête",
+			"lien":		"mod/assign/view.php?id=18430",
+			"github":	"exo2",
+			"notions":	["html", "css", "js", "api"]
+		}
+	],
 	"C21": [
 		{
 			"titre":	"Accessibilité",
