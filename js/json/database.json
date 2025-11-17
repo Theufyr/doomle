@@ -132,6 +132,12 @@
 			"lien":		"mod/assign/view.php?id=18908",
 			"github":	"palindromes",
 			"notions":	["js"]
+		},
+		{
+			"titre":	"Kata #1",
+			"lien":		"mod/assign/view.php?id=18905",
+			"github":	"kata1",
+			"notions":	["html", "css", "js", "storage", "git", "github"]
 		}
 	],
 	"C02": [
