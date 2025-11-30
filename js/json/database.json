@@ -30,6 +30,18 @@
 			"notions":	["js", "storage"]
 		},
 		{
+			"titre":	"Découvrir les frameworks front et les librairies CSS",
+			"lien":		"course/view.php?id=1391#module-19952",
+			"github":	"",
+			"notions":	["tailwind"]
+		},
+		{
+			"titre":	"Premiers pas avec React",
+			"lien":		"course/view.php?id=1391#module-19953",
+			"github":	"",
+			"notions":	["vite", "react"]
+		},
+		{
 			"titre":	"Chapitre 1 QCM - Comprendre l’IA générative",
 			"lien":		"mod/quiz/view.php?id=18606",
 			"github":	"",
@@ -140,6 +152,19 @@
 			"notions":	["html", "css", "js", "storage", "git", "github"]
 		}
 	],
+	"C01": [
+		{
+			"titre":	"Onboarding - Évaluation",
+			"lien":		"course/section.php?id=8755",
+			"github":	""
+		},
+		{
+			"titre":	"Le distributeur de boisson Ada",
+			"lien":		"course/section.php?id=8755",
+			"github":	"",
+			"notions":	["js"]
+		}
+	],
 	"C02": [
 		{
 			"titre":	"Ordinateur, terminal et Git",
@@ -234,6 +259,50 @@
 			"notions":	["terminal", "protocol", "api"]
 		}
 	],
+	"C06": [
+		{
+			"titre":	"HTML/CSS",
+			"lien":		"course/view.php?id=1367",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1 La vie d'Ada",
+			"lien":		"mod/page/view.php?id=18330",
+			"github":	"",
+			"notions":	["html"]
+		},
+		{
+			"titre":	"Exercice 2 La vie d'Ada 2.0",
+			"lien":		"mod/page/view.php?id=18331",
+			"github":	"",
+			"notions":	["css"]
+		}
+	],
+	"C07": [
+		{
+			"titre":	"Document Object Model (DOM)",
+			"lien":		"course/view.php?id=1363",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1 Changer le titre",
+			"lien":		"mod/page/view.php?id=18274",
+			"github":	"",
+			"notions":	["html", "js"]
+		},
+		{
+			"titre":	"Exercice 2 Horoscope des devs",
+			"lien":		"mod/page/view.php?id=18275",
+			"github":	"",
+			"notions":	["html", "js"]
+		},
+		{
+			"titre":	"Exercice 3 Compteur de clics",
+			"lien":		"mod/page/view.php?id=18276",
+			"github":	"",
+			"notions":	["html", "js"]
+		}
+	],
 	"C09": [
 		{
 			"titre":	"Projet Quizz",
@@ -245,6 +314,87 @@
 			"lien":		"mod/page/view.php?id=19129",
 			"github":	"",
 			"notions":	["html", "css", "js", "ts", "storage", "git", "github"]
+		}
+	],
+	"C10": [
+		{
+			"titre":	"Conditions",
+			"lien":		"course/view.php?id=1386",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1",
+			"lien":		"mod/page/view.php?id=18521",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 2",
+			"lien":		"mod/page/view.php?id=18522",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 3",
+			"lien":		"mod/page/view.php?id=18523",
+			"github":	"",
+			"notions":	["js"]
+		}
+	],
+	"C11": [
+		{
+			"titre":	"Boucles",
+			"lien":		"course/view.php?id=1389",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1",
+			"lien":		"mod/page/view.php?id=18557",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 2",
+			"lien":		"mod/page/view.php?id=18558",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 3",
+			"lien":		"mod/page/view.php?id=18559",
+			"github":	"",
+			"notions":	["js"]
+		}
+	],
+	"C12": [
+		{
+			"titre":	"Clean code",
+			"lien":		"course/view.php?id=1375",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1 Refactoring Javascript (1)",
+			"lien":		"mod/page/view.php?id=18403",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 2 Refactoring Javascript (2)",
+			"lien":		"mod/page/view.php?id=18404",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 3 Galerie miniatures (HTML, CSS, Javascript)",
+			"lien":		"mod/page/view.php?id=18405",
+			"github":	"",
+			"notions":	["js"]
+		},
+		{
+			"titre":	"Exercice 4 Météo",
+			"lien":		"mod/page/view.php?id=18406",
+			"github":	"",
+			"notions":	["html", "js"]
 		}
 	],
 	"C13": [
@@ -314,6 +464,44 @@
 			"lien":		"mod/assign/view.php?id=18430",
 			"github":	"exo2",
 			"notions":	["html", "css", "js", "api"]
+		}
+	],
+	"C17": [
+		{
+			"titre":	"Projet Dataviz",
+			"lien":		"course/view.php?id=1373",
+			"github":	""
+		},
+		{
+			"titre":	"Projet Quiz - HTML / CSS / JavaScript",
+			"lien":		"mod/page/view.php?id=19956",
+			"github":	"",
+			"notions":	["ts", "git", "github", "tailwind", "vite", "react", "react-router", "tanstack", "recharts"]
+		}
+	],
+	"C20": [
+		{
+			"titre":	"HTML / CSS avancé (responsive)",
+			"lien":		"course/view.php?id=1392",
+			"github":	""
+		},
+		{
+			"titre":	"Exercice 1 Produire un affichage en flexbox",
+			"lien":		"mod/page/view.php?id=18697",
+			"github":	"",
+			"notions":	["css"]
+		},
+		{
+			"titre":	"Exercice 2 Produire un affichage en grid",
+			"lien":		"mod/page/view.php?id=18698",
+			"github":	"",
+			"notions":	["html", "css"]
+		},
+		{
+			"titre":	"Exercice 3 Reproduire un design responsive",
+			"lien":		"mod/page/view.php?id=18699",
+			"github":	"",
+			"notions":	["html", "css"]
 		}
 	],
 	"C21": [
