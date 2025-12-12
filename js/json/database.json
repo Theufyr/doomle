@@ -150,6 +150,12 @@
 			"lien":		"mod/assign/view.php?id=18905",
 			"github":	"kata1",
 			"notions":	["html", "css", "js", "storage", "git", "github"]
+		},
+		{
+			"titre":	"Kata #2",
+			"lien":		"mod/assign/view.php?id=18909",
+			"github":	"kata2",
+			"notions":	["js", "api"]
 		}
 	],
 	"C01": [
