@@ -156,6 +156,12 @@
 			"lien":		"mod/assign/view.php?id=18909",
 			"github":	"kata2",
 			"notions":	["js", "api"]
+		},
+		{
+			"titre":	"SQL",
+			"lien":		"mod/assign/view.php?id=18910",
+			"github":	"sql",
+			"notions":	["sql"]
 		}
 	],
 	"C01": [

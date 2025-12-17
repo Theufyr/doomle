@@ -6,6 +6,7 @@ export default notionList = {
 	"ts":       	["TypeScript",      "TS",   false],
 	"storage":  	["localStorage",    "",     false],
 	"cookie":   	["Cookies",         "",     false],
+	"sql":   		["SQL",         	"SQL",  false],
 	"api":   		["API",         	"API",  false],
 	"terminal": 	["Terminal",        "",		false],
 	"protocol": 	["Protocole Web",   "",		false],
